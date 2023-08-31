@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Group Activity &#45; Big Spender Unit Tests",
+      "setup": "",
+      "run": "./gradlew groupactivity-bigspender-test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 11,
+      "points": null
+    }
+  ]
+}
