@@ -449,7 +449,9 @@ index e6c92e0..a6b9b02 100644
 <br>
 
 ## Gradle Commands
-* `./gradlew groupactivity-bigspender-test` - Run Unit Tests for the Big Spender group activity
+```console
+./gradlew groupactivity-bigspender-test
+```
 <br>
 
 <a href="your-gmail-link?">:mailbox:</a> How to reach the maintainer
